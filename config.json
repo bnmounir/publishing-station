@@ -1,19 +1,11 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Hi, I'm Mounir 👋",
+  "site_description": "I'm a 👨‍💻 software engineer based in Brooklyn, NY. A bootcamp grad with a background in 🏞️ Environmental Engineering. Also a 👨‍🍳 chef and nutrition educator. INTJ/INTP",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Personal Website"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@bnmounir7",
+  "github_account": "bnmounir"
 }
