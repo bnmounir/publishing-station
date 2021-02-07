@@ -5,7 +5,8 @@
   "site_keywords": [
     "Personal Website"
   ],
-  "posts_per_page": 5,
+  "posts_per_page": 3,
   "twitter_account": "@bnmounir7",
-  "github_account": "bnmounir"
+  "github_account": "bnmounir",
+  "linkedin_account": "bnmounir"
 }

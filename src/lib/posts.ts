@@ -41,7 +41,8 @@ function fetchPostContent(): PostContent[] {
       };
       const slug = fileName.replace(/\.mdx$/, "");
 
-      // Validate slug string
+      // Validate slug 
+      console.log(matterData.slug , slug)
       if (matterData.slug !== slug) {
         throw new Error(
           "slug field not match with the path of its content source"
