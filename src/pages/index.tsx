@@ -16,7 +16,7 @@ export default function Index() {
           <h1>
           <span className="fancy">Hi, I'm Mounir 👋</span>
           </h1>
-          <span className="handle">@Mounir-personal-website</span>
+          <span className="handle">@bnmounir</span>
           <h4>I'm a 👨‍💻 software engineer based in Brooklyn, NY. A bootcamp grad <br/> with a background in 🏞️ Environmental Engineering.<br/> Also a 👨‍🍳 chef and nutrition educator. INTJ/INTP</h4>
           <SocialList />
         </div>
