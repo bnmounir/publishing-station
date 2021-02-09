@@ -53,8 +53,8 @@ export default function Index() {
           h1 {
             font-size: 3rem;
           }
-          h2 {
-            font-size: 2.25rem;
+          h4 {
+            font-size: 2rem;
           }
         }
       `}</style>
