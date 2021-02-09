@@ -9,6 +9,7 @@ type Config = {
   readonly twitter_account: string;
   readonly github_account: string;
   readonly linkedin_account: string;
+  readonly calendly_account: string;
 };
 
 export default config as Config;
