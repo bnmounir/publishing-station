@@ -1,15 +1,15 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_title": "Hi, I'm Mounir 👋",
-  "site_description": "I'm a 👨‍💻 software engineer based in Brooklyn, NY. A bootcamp grad with a background in 🏞️ Environmental Engineering. Also a 👨‍🍳 chef and nutrition educator. INTJ/INTP",
+  "twitter_account": "@bnmounir7",
+  "base_url": "https://mounir.dev",
   "site_keywords": [
     "Personal Website"
   ],
-  "posts_per_page": 5,
-  "twitter_account": "@bnmounir7",
-  "github_account": "bnmounir",
-  "linkedin_account": "bnmounir",
-  "calendly_account": "bnmounir",
   "notion_account": "Hi-I-m-Mounir-46157be0b3bd41d3b72237e4392bcd83",
-  "medium_account": "@bnmounir"
+  "medium_account": "@bnmounir",
+  "site_description": "I'm a 👨‍💻 software engineer based in Brooklyn, NY. A bootcamp grad with a background in 🏞️ Environmental Engineering. Also a 👨‍🍳 chef and nutrition educator. INTJ/INTP",
+  "calendly_account": "bnmounir",
+  "linkedin_account": "bnmounir",
+  "github_account": "bnmounir",
+  "posts_per_page": 5
 }
