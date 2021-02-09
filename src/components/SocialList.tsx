@@ -3,6 +3,8 @@ import Twitter from "../assets/twitter-alt.svg";
 import GitHub from "../assets/github-alt.svg";
 import Linkedin from "../assets/linkedin-alt.svg";
 import Calendly from "../assets/calendly-alt.svg";
+import Notion from "../assets/notion-alt.svg";
+import Medium from "../assets/medium-alt.svg";
 import config from "../lib/config";
 
 export function SocialList({}) {
@@ -38,7 +40,23 @@ export function SocialList({}) {
         target="_blank"
         rel="noopener"
       >
-        <Linkedin width={26} height={26} fill={"#222"} />
+         <Calendly width={26} height={26} fill={"#222"} />
+        </a>
+      <a
+        title="Notion"
+        href={`https://www.notion.so/${config.notion_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Notion width={24} height={24} fill={"#222"} />
+      </a>
+      <a
+        title="Notion"
+        href={`https://medium.com/${config.medium_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Medium width={26} height={26} fill={"#222"} />
       </a>
       <style jsx>{`
         a {

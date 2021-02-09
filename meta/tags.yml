@@ -1,13 +1,13 @@
 tags:
   - slug: document
     name: document
-  - slug: mock
-    name: mock
+  - slug: automation
+    name: automation
   - slug: style
     name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: workflow
+    name: workflow
+  - slug: hack
+    name: hack
+  - slug: dev
+    name: dev

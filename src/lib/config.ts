@@ -10,6 +10,8 @@ type Config = {
   readonly github_account: string;
   readonly linkedin_account: string;
   readonly calendly_account: string;
+  readonly notion_account: string;
+  readonly medium_account: string;
 };
 
 export default config as Config;

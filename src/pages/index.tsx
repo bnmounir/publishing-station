@@ -4,6 +4,7 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 
+
 export default function Index() {
   return (
     <Layout>
@@ -33,8 +34,8 @@ export default function Index() {
           margin: 0;
           font-weight: 500;
         }
-        h2 {
-          font-size: 1.75rem;
+        h4 {
+          font-size: 1.5rem;
           font-weight: 400;
           line-height: 1.25;
         }
